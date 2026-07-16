@@ -1,0 +1,6 @@
+{
+  "name": "NEO-VOTE BLOCKCHAIN V0.1",
+  "description": "Cryptographically secured, decentralized voting ledger featuring high-contrast Glitch Art visual frameworks and immutable blockchain audit logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
